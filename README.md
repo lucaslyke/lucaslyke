@@ -4,6 +4,7 @@
 - 🌱 Estudando html, css, js, python e php
 - 💬 Contate-me no email: agencia.lkmkt@gmail.com
 - 😄 Pronouns: ele/dele
+- 🤓 Aluno DevMedia
 
 <div>
   <a href="https://github.com/lucaslyke">
