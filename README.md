@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por conectar design funcional a lógicas robustas. À frente da **Maturare IA**, meu objetivo é transformar processos complexos em fluxos de automação perfeitamente orquestrados. 
+Sou um desenvolvedor apaixonado por conectar design funcional a lógicas robustas. À frente da **MaturareTeam**, meu objetivo é transformar processos complexos em fluxos de automação perfeitamente orquestrados. 
 
 Acredito na excelência técnica e escrevo códigos com foco em performance, utilizando arquiteturas semânticas, estilização limpa e scripts otimizados para garantir a melhor experiência do usuário.
 
