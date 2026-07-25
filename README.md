@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+(Lyke);Desenvolvedor+Front-end;Especialista+em+Automa%C3%A7%C3%A3o+e+IA" alt="Typing SVG" />
+  <a href="https://github.com/lucaslyke">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+(Lyke);Desenvolvedor+Front-end;Especialista+em+Automa%C3%A7%C3%A3o+e+IA" alt="Typing SVG" />
+  </a>
   
   <p align="center">
     <strong>Construindo interfaces de alto impacto e arquiteturas de automação eficientes.</strong>
@@ -10,7 +12,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por conectar design funcional a lógicas robustas. À frente da **MaturareTeam**, meu objetivo é transformar processos complexos em fluxos de automação perfeitamente orquestrados. 
+Sou um desenvolvedor apaixonado por conectar design funcional a lógicas robustas. À frente da **Maturare IA**, meu objetivo é transformar processos complexos em fluxos de automação perfeitamente orquestrados. 
 
 Acredito na excelência técnica e escrevo códigos com foco em performance, utilizando arquiteturas semânticas, estilização limpa e scripts otimizados para garantir a melhor experiência do usuário.
 
@@ -49,10 +51,11 @@ Acredito na excelência técnica e escrevo códigos com foco em performance, uti
 ### 📊 Analytics & Atividade
 
 <div align="center">
-  
   <a href="https://github.com/lucaslyke">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucaslyke&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslyke&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lucaslyke&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/lucaslyke">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslyke&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 
   <br><br>
@@ -60,7 +63,6 @@ Acredito na excelência técnica e escrevo códigos com foco em performance, uti
   <a href="https://github.com/lucaslyke">
     <img src="https://github-profile-trophy.vercel.app/?username=lucaslyke&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
-
 </div>
 
 ---
@@ -75,7 +77,7 @@ Acredito na excelência técnica e escrevo códigos com foco em performance, uti
   <a href="mailto:agencia.lkmkt@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5581996716647" target="_blank">
+  <a href="https://wa.me/5581996716647" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
