@@ -1,6 +1,13 @@
 <div align="center">
+  <!--
+    EFEITO DE DIGITAÇÃO ATIVO:
+    Esta seção reativa a animação de digitação dinâmica para os seus cabeçalhos.
+    Utilizamos um gerador SVG otimizado e estável para renderizar o efeito que você gosta.
+    Todos os parâmetros de cor (ciano #61DAFB), fonte (Fira Code, peso 600, tamanho 28)
+    e a sequência de texto completa foram configurados para máxima confiabilidade.
+  -->
   <a href="https://github.com/lucaslyke">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+(Lyke);Desenvolvedor+Front-end;Especialista+em+Automa%C3%A7%C3%A3o+e+IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+(Lyke);Desenvolvedor+Front-end;Especialista+em+Automa%C3%A7%C3%A3o+e+IA" alt="Typing SVG - Olá, eu sou o Lucas (Lyke); Desenvolvedor Front-end; Especialista em Automação e IA" />
   </a>
   
   <p align="center">
@@ -48,22 +55,12 @@ Acredito na excelência técnica e escrevo códigos com foco em performance, uti
 
 ---
 
-### 📊 Analytics & Atividade
+### 🚀 O que você encontra por aqui
 
-<div align="center">
-  <a href="https://github.com/lucaslyke">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucaslyke&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/lucaslyke">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslyke&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/lucaslyke">
-    <img src="https://github-profile-trophy.vercel.app/?username=lucaslyke&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
+- 💻 **Interfaces Modernas:** Projetos desenvolvidos com HTML, CSS e Vanilla JavaScript, focados em semântica, organização e performance, sem dependência excessiva de frameworks.
+- ⚙️ **Automação de Processos:** Fluxos inteligentes integrando **n8n**, **Supabase** e APIs para otimizar regras de negócio e gestão de dados.
+- 🤖 **Inteligência Artificial:** Scripts e lógicas que conectam IA ao dia a dia operacional.
+- 🛠️ **Arquitetura Limpa:** Código estritamente padronizado, priorizando a manutenibilidade, a completude e a ausência de desperdício de recursos.
 
 ---
 
